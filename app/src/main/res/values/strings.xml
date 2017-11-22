@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Family finances</string>
+    <string name="title_property">Property</string>
+    <string name="title_invoice">Invoice</string>
+    <string name="title_meters">Meters</string>
+    <string name="title_balance">Balance</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_property"
+        android:icon="@drawable/ic_property_24dp"
+        android:title="@string/title_property"/>
+
+    <item
+        android:id="@+id/navigation_invoice"
+        android:icon="@drawable/ic_invoice_24dp"
+        android:title="@string/title_invoice"/>
+
+    <item
+        android:id="@+id/navigation_meter"
+        android:icon="@drawable/ic_meters_24dp"
+        android:title="@string/title_meters"/>
+
+    <item
+        android:id="@+id/navigation_balance"
+        android:icon="@drawable/ic_balance_24dp"
+        android:title="@string/title_balance"/>
+
+
+</menu>
